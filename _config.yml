@@ -1,14 +1,13 @@
 # Site settings
-title: Harish's Tech Blog
+title: TechStuff
 email: harish207@live.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Hi, and welcome to my tech blog. I am Harish, and I share my views on some cool techstuff here.
+ If you were looking for my other blog or my homepage, or to contact me, look at the Contact page.
 baseurl: "/tech" # the subpath of your site, e.g. /blog/
 url: "http://harishv7.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Harish__V
+github_username:  harishv7
 
 # Build settings
 markdown: kramdown

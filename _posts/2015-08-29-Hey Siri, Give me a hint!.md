@@ -7,7 +7,7 @@ tags: [tech]
 
 Visited Apple's events page today and was greeted by this:
 
-![Apple's Events Page](assets/AppleEvent/webpage.png)
+![Apple's Events Page](/tech/assets/AppleEvent/webpage.png)
 
 And true enough, Siri responded with it's usual level of cuteness:
 
@@ -24,12 +24,13 @@ And true enough, Siri responded with it's usual level of cuteness:
 <br>
 <img class='siri' align="left" src='http://i.imgur.com/yjFhbHU.png'/>
 <img class='siri' align="middle" src='http://i.imgur.com/10ELJWN.png'/>
-<img class='applelogo' align="right" src='/blog/assets/AppleEvent/apple.png'/>
+<img class='applelogo' align="right" src='/tech/assets/AppleEvent/apple.png'/>
 </div>
 
 <style>
 .images{
     text-align:center;
+    padding: 10px;
 }
 .applelogo{
 	width:160px;
@@ -38,6 +39,7 @@ And true enough, Siri responded with it's usual level of cuteness:
 }
 .siri{
 	width: 160px;
+	border-radius: 5px;
 		height: 284px;
 		display:inline-block;
 }
