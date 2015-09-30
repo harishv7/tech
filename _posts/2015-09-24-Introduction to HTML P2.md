@@ -7,7 +7,7 @@ tags: [tech]
 
 #Recap
 
-In [part 1](http://harishv7.github.io/tech), we covered the basics of HTML, the structure, declaring headings, paragraphs and adding images in a HTML file.
+In [part 1](http://harishv7.github.io/tech/general/techstuff/2015/09/20/Introduction%20to%20HTML%20P1.html), we covered the basics of HTML, the structure, declaring headings, paragraphs and adding images in a HTML file.
 
 <hr>
 
