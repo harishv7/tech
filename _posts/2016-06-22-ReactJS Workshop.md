@@ -5,7 +5,7 @@ categories: [general, techstuff]
 tags: [tech, react]
 ---
 
-Recently, I had the pleasure of conducting the 3rd Hackerschool workshop in the series on React JS. React is an amazing UI library (commonly misunderstood as a framework). Unlike a framework that typically deals with all the 3 main areas of Model, View and Controller layers (see my [MVC post](http://harishv7.github.io/tech/general/techstuff/2015/10/02/MVC%20Design%20Pattern.html)), React is a Javascript library for building user interfaces. 
+Recently, I had the pleasure of conducting the 3rd Hackerschool workshop in the series on React JS. React is an amazing UI library (commonly misunderstood as a framework). Unlike a framework that typically deals with all the 3 main areas of Model, View and Controller layers (see my [MVC post](http://harishv.me/tech/general/techstuff/2015/10/02/MVC-Design-Pattern.html), React is a Javascript library for building user interfaces. 
 
 Initially I thought React is just one of another Javascript framework or library that pops up and fades away. But no, React is just amazing and it's popularity has been growing ever since it's release.
 
