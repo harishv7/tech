@@ -6,7 +6,7 @@ permalink: /about/
 
 ### [Harish V](http://harishv7.github.io)
 
-####Computer Engineering Student, Web-Designer, Tech Enthusiast
+#### Computer Engineering Student, Web-Designer, Tech Enthusiast
 
 Hey there! I am currently a student pursuing my undergraduate studies in Computer Engineering. I really like experimenting with new ideas and coding. I host many of my mini-projects on Github. Feel free to adapt them if you need it (an attribution and link back to my blog will be greatly appreciated) under the Creative Commons License [below](#license).
 

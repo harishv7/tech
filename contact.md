@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-###Hello there. 
+### Hello there. 
 
 If you were looking for my homepage, click [here](http://harishv7.github.io).
 
